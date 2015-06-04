@@ -5,8 +5,9 @@ Dependencies
 ------------
 
 It requires
-    - Vundle
-    - YouCompleteMe
+
+- Vundle
+- YouCompleteMe
 
 vim-snippets and ultisnips are the other packages which will be installed automatically.
 
