@@ -1,5 +1,5 @@
 # vimrc
-My Vim configuration file. Tested on Linux and Mac OSX. Include auto-completion, snippets, latex preview. 
+My Vim configuration file. Tested on Linux and Mac OSX. Includes auto-completion, snippets, latex preview. 
 
 Dependencies
 ------------
